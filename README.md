@@ -1,9 +1,5 @@
 <p align="center">Controle de Tarefas</p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-</p>
-
 ## Sobre
 
 Controle de Tarefas é um projeto desenvolvido utilizando o framework Laravel. Seu objetivo é ser um sistema, onde o usuário pode cadastrar tarefas e ao fim ter uma lista com todas as suas tarefas cadastradas, podendo também exportar tais tarefas em um documento do tipo:
