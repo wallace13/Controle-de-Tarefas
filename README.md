@@ -10,8 +10,8 @@ Controle de Tarefas é um projeto desenvolvido utilizando o framework Laravel. S
 
 ## Objetivos do Projetos
 
-Aprendizado de como utilizar Bibliotecas de exportação, junto ao laravel para exportação de documentos.
-Aprendizado de como desenvolver recuperação de senha, junto a e-mails como por exemplo: gmail, bem como personalização das mensagem de recuperação de senha.
+- Aprendizado de como utilizar Bibliotecas de exportação, junto ao laravel para exportação de documentos.
+- Aprendizado de como desenvolver recuperação de senha, junto a e-mails como por exemplo: gmail, bem como personalização das mensagem de recuperação de senha.
 
 ## License
 
